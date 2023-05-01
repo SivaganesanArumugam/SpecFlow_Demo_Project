@@ -22,3 +22,5 @@ currently test will execute on chrome browser need to update the framework to ru
 currently environment details has been hardcoded need to update the framework
 
 Need to add more Selenium helper methods
+
+![image](https://user-images.githubusercontent.com/34837566/235403450-cbd8a08b-469d-452b-b72e-69fc868404f1.png)
